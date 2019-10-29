@@ -13,5 +13,5 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [mbfmf](https://github.com/mbfmf/ROM)
 - [JanS-25](https://github.com/JanS-25/ROM)
 - [pmgmgsna](https://github.com/pmgmgsna/ROM-19-20-vaje)
-- odgovor je 42
+- odgovor je 42 (sklec)
 - [larissa](https://github.com/larissadzombic)
