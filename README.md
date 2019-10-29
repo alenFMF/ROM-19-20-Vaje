@@ -7,3 +7,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [ekla19](https://github.com/ekla19/ROM)
 - [njokc10](https://github.com/njokc10/ROM.git)
 - [Kdaolsek](https://github.com/Kdolsek/ROM)
+- [matjazlevstek](https://github.com/matjazlevstek/ROM)
