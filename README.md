@@ -10,3 +10,4 @@ Sprememba na githubu
 Pejmo se pogovarjat :P
 asd
 kaj kej pravš?
+hey
