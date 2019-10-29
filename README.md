@@ -8,5 +8,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [njokc10](https://github.com/njokc10/ROM.git)
 - [Kdaolsek](https://github.com/Kdolsek/ROM)
 - [matjazlevstek](https://github.com/matjazlevstek/ROM)
-[mbfmf](https://github.com/mbfmf/ROM)
-- [titoo1234](https://github.com/titoo1234/ROM)
+-- [rumo333](https://github.com/rumo333/)
