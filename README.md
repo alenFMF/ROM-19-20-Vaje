@@ -5,3 +5,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [njokc10](https://github.com/njokc10/ROM.git)
 - [matjazlevstek](https://github.com/matjazlevstek/ROM)
 -[titoo1234](https://github.com/titoo1234/ROM)
+- [marinkovicm](https://github.com/marinkovicm/ROM)
