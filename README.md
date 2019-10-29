@@ -4,3 +4,5 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 Popravil sem
 
 Popravil sem še na githubu
+
+Sprememba na githubu
