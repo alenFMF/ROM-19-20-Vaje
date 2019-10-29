@@ -7,3 +7,5 @@ Popravil sem še na githubu
 
 En vzporeden popravek
 Sprememba na githubu
+Pejmo se pogovarjat :P
+asd
