@@ -8,5 +8,5 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [ekla19](https://github.com/ekla19/ROM)
 - [marinkovicm](https://github.com/marinkovicm/ROM)
 - [JanS-25](https://github.com/JanS-25/ROM)
-sorry
+- sorry
 - [NappingKoala]((https://github.com/NappingKoala/ROM)
