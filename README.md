@@ -9,3 +9,4 @@ En vzporeden popravek
 Sprememba na githubu
 Pejmo se pogovarjat :P
 asd
+kaj kej pravš?
