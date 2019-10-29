@@ -1,8 +1,9 @@
 # ROM-19-20-Vaje
 Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 
-- [NappingKoala](https://github.com/NappingKoala/ROM) :zzz: :koala: :zzz:
+
 - [rumo333](https://github.com/rumo333/)
+- [NappingKoala](https://github.com/NappingKoala/ROM) :zzz: :koala: :zzz:
 - [alenFMF](https://github.com/alenFMF/ROM-19-20-Vaje) 
 - [marinkovicm](https://github.com/marinkovicm/ROM)
 - [titoo1234](https://github.com/titoo1234/ROM)
