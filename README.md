@@ -6,3 +6,4 @@ Popravil sem
 Popravil sem še na githubu
 
 En vzporeden popravek
+Sprememba na githubu
