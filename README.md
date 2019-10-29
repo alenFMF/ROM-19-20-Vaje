@@ -5,3 +5,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 
 - [zdala19](https://github.com/zdala19/ROM)
 - [larissa](https://github.com/larissadzombic)
+- [NappingKoala](https://github.com/NappingKoala/ROM)
