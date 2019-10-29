@@ -9,3 +9,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [marinkovicm](https://github.com/marinkovicm/ROM)
 - [JanS-25](https://github.com/JanS-25/ROM)
 sorry
+- [NappingKoala]((https://github.com/NappingKoala/ROM)
