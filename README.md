@@ -11,4 +11,4 @@ Pejmo se pogovarjat :P
 asd
 kaj kej pravš?
 hey
-oj
+hello
