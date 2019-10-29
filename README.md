@@ -12,3 +12,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [matjazlevstek](https://github.com/matjazlevstek/ROM)
 - [mbfmf](https://github.com/mbfmf/ROM)
 - [JanS-25](https://github.com/JanS-25/ROM)
+- [pmgmgsna](https://github.com/pmgmgsna/ROM-19-20-vaje)
