@@ -27,4 +27,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [juriko123](https://github.com/juriko123/ROM)
 - [PonTeo](https://github.com/PonTeo/ROM)
 - [Ineex](https://github.com/Ineex/ROM)
-- [AdnanPajalic] https://github.com/AdnanPajalic/ROM
+- [tratk](https://github.com/tratk/ROM)
