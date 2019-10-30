@@ -21,3 +21,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 # 2. skupina
 
 - [alenFMF](https://github.com/alenFMF/ROM-19-20-Vaje) 
+- [azi2345](https://github.com/azi2345/ROM1)
