@@ -26,4 +26,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [SashaOslaj](https://github.com/SashaOslaj/ROM)
 - [AnžeOzimek](https://github.com/anzeozimek/rom)
 - [MatevzPP](https://github.com/MatevzPP/ROM)
+- [PonTeo](https://github.com/PonTeo/ROM)
+- [Ineex](https://github.com/Ineex/ROM)
+- [Vapo77](https://github.com/Vapo77/ROM)
 
