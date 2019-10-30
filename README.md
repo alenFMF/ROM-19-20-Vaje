@@ -21,4 +21,5 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 # 2. skupina
 
 - [alenFMF](https://github.com/alenFMF/ROM-19-20-Vaje) 
-- [juriko123](https://github.com/juriko123/ROM) 
+- [SashaOslaj](https://github.com/SashaOslaj/ROM)
+- [AnžeOzimek](https://github.com/anzeozimek/rom)
