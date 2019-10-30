@@ -25,3 +25,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [AnžeOzimek](https://github.com/anzeozimek/rom)
 - [MatevzPP](https://github.com/MatevzPP/ROM)
 - [juriko123](https://github.com/juriko123/ROM)
+- [PonTeo](https://github.com/PonTeo/ROM)
