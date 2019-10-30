@@ -32,3 +32,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [tratk](https://github.com/tratk/ROM)
 - [oreh1ek](https://github.com/oreh1ek/ROM)
 - [luka93](https://github.com/luka93/ROM)
+- [azi2345](https://github.com/azi2345/ROM1)
+- [AdnanPajalic](https://github.com/AdnanPajalic/ROM) 
+- [RandlD19](https://github.com/RandlD19/ROM)
+- [Vapo77](https://github.com/Vapo77/ROM)
