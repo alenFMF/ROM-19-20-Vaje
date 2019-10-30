@@ -30,4 +30,5 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [Ineex](https://github.com/Ineex/ROM)
 - [Vapo77](https://github.com/Vapo77/ROM)
 - [tratk](https://github.com/tratk/ROM)
+- [oreh1ek](https://github.com/oreh1ek/ROM)
 
