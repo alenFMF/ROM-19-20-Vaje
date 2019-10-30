@@ -28,3 +28,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [PonTeo](https://github.com/PonTeo/ROM)
 - [Ineex](https://github.com/Ineex/ROM)
 - [tratk](https://github.com/tratk/ROM)
+- [oreh1ek](https://github.com/oreh1ek/ROM)
