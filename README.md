@@ -31,3 +31,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [oreh1ek](https://github.com/oreh1ek/ROM)
 - [azi2345](https://github.com/azi2345/ROM1)
 - [AdnanPajalic](https://github.com/AdnanPajalic/ROM) 
+- [RandlD19](https://github.com/RandlD19/ROM)
