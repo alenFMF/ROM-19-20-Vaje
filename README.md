@@ -17,7 +17,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [pmgmgsna](https://github.com/pmgmgsna/ROM-19-20-vaje)
 - [larissa](https://github.com/larissadzombic/ROM)
 - [githehexd](https://github.com/githehexd/rom)
-
+- [penca19](https://github.com/Penca19/ROM)
 
 
 # 2. skupina
