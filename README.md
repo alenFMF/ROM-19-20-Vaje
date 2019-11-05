@@ -3,8 +3,8 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 
 # 1. skupina
 
-- [rumo333](https://github.com/rumo333/)
 - [NappingKoala](https://github.com/NappingKoala/ROM) :zzz: :koala: :zzz:
+- [rumo333](https://github.com/rumo333/)
 - [marinkovicm](https://github.com/marinkovicm/ROM)
 - [titoo1234](https://github.com/titoo1234/ROM)
 - [zdala19](https://github.com/zdala19/ROM)
