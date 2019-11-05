@@ -4,7 +4,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 # 1. skupina
 
 - [NappingKoala](https://github.com/NappingKoala/ROM) :zzz: :koala: :zzz:
-- [habjan98](https://github.com/habjan98/ROM)
+- [habjan98](https://github.com/habjan98/ROM) :speak_no_evil:
 - [rumo333](https://github.com/rumo333/)
 - [marinkovicm](https://github.com/marinkovicm/ROM)
 - [titoo1234](https://github.com/titoo1234/ROM)
