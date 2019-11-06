@@ -14,7 +14,6 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [Kdaolsek](https://github.com/Kdolsek/ROM)
 - [matjazlevstek](https://github.com/matjazlevstek/ROM)
 - [mbfmf](https://github.com/mbfmf/ROM)
-- [JanS-25](https://github.com/JanS-25/ROM)
 - [pmgmgsna](https://github.com/pmgmgsna/ROM-19-20-vaje)
 - [larissa](https://github.com/larissadzombic/ROM)
 - [githehexd](https://github.com/githehexd/rom)
@@ -41,3 +40,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [HappyPinkyButterfly](https://github.com/HappyPinkyButterfly/ROM)
 - [LukaFMF](https://github.com/LukaFMF/ROM)
 - [penca19](https://github.com/Penca19/ROM)
+- [JanS-25](https://github.com/JanS-25/ROM)
