@@ -17,7 +17,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [pmgmgsna](https://github.com/pmgmgsna/ROM-19-20-vaje)
 - [larissa](https://github.com/larissadzombic/ROM)
 - [githehexd](https://github.com/githehexd/rom)
-
+- [Yenzo159](https://github.com/Yenzo159/rom)
 
 
 
