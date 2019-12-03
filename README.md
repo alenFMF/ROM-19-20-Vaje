@@ -18,7 +18,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [larissa](https://github.com/larissadzombic/ROM)
 - [githehexd](https://github.com/githehexd/rom)
 - [Yenzo159](https://github.com/Yenzo159/rom)
-
+- [masterriko](https://github.com/masterriko/ROM)
 
 
 # 2. skupina
