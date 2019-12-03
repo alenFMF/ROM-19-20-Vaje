@@ -20,6 +20,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [Yenzo159](https://github.com/Yenzo159/rom)
 - [masterriko](https://github.com/masterriko/ROM)
 - [timoteus99](https://github.com/Timoteus99/ROM)
+- [MaticFMF](https://github.com/MaticFMF/ROM)
 
 # 2. skupina
 
