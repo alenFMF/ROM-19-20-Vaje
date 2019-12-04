@@ -47,4 +47,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [nekdo19](https://github.com/nekdo19/ROM)
 - [Gemini-14](https://github.com/Gemini-14/ROM)
 - [shani123007](https://github.com/shani123007/ROM)
-
+- [LMarkovic15](https://github.com/LMarkovic15/rom)
