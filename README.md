@@ -44,4 +44,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [JanS-25](https://github.com/JanS-25/ROM)
 - [benisa21](https://github.com/benisa21/ROM)
 -  [https://github.com/Martina333] (https://github.com/Martina333/ROM)
-[nekdo19](https://github.com/nekdo19/ROM)
+- [nekdo19](https://github.com/nekdo19/ROM)
+
+
+
