@@ -21,6 +21,7 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [masterriko](https://github.com/masterriko/ROM)
 - [timoteus99](https://github.com/Timoteus99/ROM)
 - [MaticFMF](https://github.com/MaticFMF/ROM)
+- [berdnikana](https://github.com/anaberdnik/ROMseminarska.git)
 
 # 2. skupina
 
