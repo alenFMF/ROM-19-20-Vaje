@@ -49,3 +49,4 @@ Vaje pri predmetu Računalniška orodja v matematiki, 2019-2020
 - [Gemini-14](https://github.com/Gemini-14/ROM)
 - [shani123007](https://github.com/shani123007/ROM)
 - [LMarkovic15](https://github.com/LMarkovic15/rom)
+- [Vitomir369](https://github.com/Vitomir369/RoM)
